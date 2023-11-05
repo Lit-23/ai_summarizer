@@ -73,7 +73,7 @@ const Demo = () => {
             type='submit'
             className='submit_btn peer-focus:border-gray-700 peer-focus:text-gray-700'
           >
-            <img src="./src/assets/submit.png" alt="submit" />
+            ➜
           </button>
         </form>
 
